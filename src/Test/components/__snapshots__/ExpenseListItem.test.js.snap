@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Expense List Render Correctly 1`] = `
+<NavLink
+  activeClassName="active"
+  aria-current="page"
+  className="list-item"
+  to="/edit/undefined"
+>
+  <div>
+    <h3
+      className="list-item__title"
+    />
+    <span
+      className="list-item__sub-title"
+    >
+      January 1st, 1970
+    </span>
+  </div>
+  <h3
+    className="list-item__amount"
+  >
+    $0.00
+  </h3>
+</NavLink>
+`;
+
+exports[`Expense List Render Correctly 2`] = `
+<NavLink
+  activeClassName="active"
+  aria-current="page"
+  className="list-item"
+  to="/edit/undefined"
+>
+  <div>
+    <h3
+      className="list-item__title"
+    />
+    <span
+      className="list-item__sub-title"
+    >
+      January 1st, 1970
+    </span>
+  </div>
+  <h3
+    className="list-item__amount"
+  >
+    $0.00
+  </h3>
+</NavLink>
+`;
